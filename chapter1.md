@@ -12,7 +12,7 @@ Açık kaynaklı yazılımlarda, yazılımın güncellenmesi tüm kullanıcılar
 
 Açık kaynak kodlu işletim sistemleri lisanlı veya lisanssız olabildiği gibi özgür yazılımların hepsi lisanssızdır. Buna göre, her özgür yazılım açık kaynaklı iken her açık kaynaklı yazılım özgür değildir.
 
-GNU/Linux'un kullanım alanlarından bazıları; Android işletim sistemine sahip mobil telefonlar, tabletler, televizyonlar, oyun konsolları, eğitim simülatörleri, uçaklar ve otomobillerdir.
+GNU/Linux'un kullanım alanlarından bazıları; Android işletim sistemine sahip mobil telefonlar, tabletler, televizyonlar, oyun konsolları, eğitim simülatörleri, uçaklar ve otomobillerdir. Linux çekirdeği kulanan sistemler masaüstü, dizüstü ve netbook bilgisayar pazarında yaklaşık olarak % 2 pazar payına sahiptir. Linux dağıtımları, süper bilgisayarlarda işletim sistemi olarak da yaygın şekilde kullanılmaktadır: Kasım 2010 tarihi itibarıyla en iyi 500 sistem arasında 459'u (%91.8) Linux dağıtımı kullanmaktadır. Google tarafından, mobil cihazlar için üretilen Android, Linux temelli açık kaynak kodlu bir işletim sistemi. Günümüzde akıllı telefon sektöründe yılı içi akıllı telefon satışları göz önüne alındığında pazar lideri konumundadır.
 
 Yazılımın sahipsiz olması farklı kullanıcılar tarafından geliştirilmesini mümkün kılar.Bu sayede kısa sürede fazla özellik kazandırılabilir. Yazılımda oluşacak hataların düzeltilmesi de daha hızlı gerçekleşir. En önemli özelliklerden biri ise, insanlar arasında yardımlaşmayı sağlamasıdır. Böylece farklı toplumlar arasındaki bağları kuvvetlendirir. Bu sayede kişisel olarak değil evrensel olarak kazanç sağlanır. Maddi kayıp olmadığı gibi manevi kazanç sağlanır ve bu, günümüzde en çok ihtiyaç duyulan şeylerden biridir.  
 
